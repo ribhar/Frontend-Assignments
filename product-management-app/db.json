@@ -1,0 +1,23 @@
+{
+  "todo": [],
+  "laptop": [
+    {
+      "id": "01",
+      "model": "011",
+      "make_year": "2011",
+      "operating_system": "mac",
+      "screen_height": "1000px",
+      "screen_width": "2000px",
+      "price": "200000"
+    },
+    {
+      "id": "02",
+      "model": "02",
+      "make_year": "2011",
+      "operating_system": "mac",
+      "screen_height": "21110px",
+      "screen_width": "11000px",
+      "price": "200000"
+    }
+  ]
+}
